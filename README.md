@@ -19,6 +19,13 @@ Output: The system provides the predicted emotion, which can be displayed or use
 The function of 'DetectionModule.py'
 The function DetectionModule is designed to detect and analyze emotions from either a video file or a live camera feed. It uses OpenCV for face detection and the DeepFace library for emotion analysis.
 
+The function of 'User Interface.py'
+The provided code snippet creates a graphical user interface (GUI) using PySimpleGUI for interacting with the DetectionModule function, which handles emotion detection from either a video file or a live camera feed. Here’s a brief overview of what each part of the code does:
+
+
+
+
+
 
 
 
