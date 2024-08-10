@@ -16,4 +16,12 @@ Feature Extraction: Once faces are detected, the system extracts relevant featur
 Output: The system provides the predicted emotion, which can be displayed or used for further processing.
 
 
+The function of 'DetectionModule.py'
+The function DetectionModule is designed to detect and analyze emotions from either a video file or a live camera feed. It uses OpenCV for face detection and the DeepFace library for emotion analysis.
+
+
+
+
+
+
 
